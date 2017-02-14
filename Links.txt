@@ -1,1 +1,6 @@
 Links:
+- Github https://github.com/edgecase/ruby_koans
+
+- http://rubykoans.com
+
+- Regex: http://rubular.com/

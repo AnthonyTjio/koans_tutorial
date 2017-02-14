@@ -1,2 +1,24 @@
 Information:
-1. Start making test 
+1. Start making acceptence test 
+
+2. assert_match(/Regex Code/, ex.message)
+
+3. irb -> pretty similar to rails console
+
+4. Object.clone creates similar object with different ID 
+
+5. array slicing array[start, length]
+5B. array slicing [start..end(inclusive)]
+5c. array slicing [start...end(exclusive)]
+
+6. array.unshift(var) -> pushback var to array
+
+7. Hash
+hash[:hashkey]
+hash.fetch(:hashkey)
+Since if you use fetch, you'll know whether the hash is really nil or never assigned
+
+8. Hash
+hash = Hash.new("TEST")
+hash[:one] << "TEST" # If not creating hash using blocks
+Apparently, both of them append pip to all hashes
